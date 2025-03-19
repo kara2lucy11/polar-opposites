@@ -1,0 +1,17 @@
+{
+    "=0S+x,!2`mk]#B(*5$vp": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwd3d3AAAAAIeXmXlwAABwiJeXeXAAAHCIl5l5dwB3cIiXmXl3dwdwiJeXeXcAd3CIl5l5cAAAcIh3d3dwAABweIiIeAAAAACHiIh4AAAAAHB3dwcAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ice"
+    },
+    "image1": {
+        "data": "hwQQABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVVVVVAAAAAAAAAFBFREJUUAAAAAAAAFUkRERUUAAAAAAAUEUiRERUVQBVAAAAVSQiRERUVVUFAABQRSIiRERUVQBVAABVVCUiREJUUAAAAAAAVUVCVVVVUAAAAAAAUFVUBQAAAAAAAAAAAFVVAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "fire"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
